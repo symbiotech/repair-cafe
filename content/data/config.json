@@ -159,5 +159,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://repair-cafe-0c6b5.netlify.app"
 }
